@@ -4,6 +4,7 @@ import com.example.ht13sessionscopeinternals.dto.User;
 import com.example.ht13sessionscopeinternals.service.SecurityContextServiceProxy;
 import org.springframework.web.bind.annotation.*;
 
+
 @RestController
 @RequestMapping("/users")
 public class UserController {
